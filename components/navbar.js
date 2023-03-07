@@ -1152,14 +1152,14 @@ dark:text-white">Please check your {signInUsing} and enter the OTP code  <span c
                           value={otp[index]}
                           onChange={(e) => handleInput(e, index)} />))}
                     </div> */}
-                    <OtpInput
+                    {/* <OtpInput
                       value={state}
                       onChange={handleChange}
                       numInputs={4}
                       inputStyle="!w-[90px] mr-5 text-3xl font-bold h-[60px] border-blue-400 focus:ring-0 border-b-4 border-t-0 border-x-0 bg-transparent"
                       containerStyle={"flex justify-center"}
                       separator={''}
-                    />
+                    /> */}
 
                     {/* <div>
                          <label class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Enter your mobile number</label>
