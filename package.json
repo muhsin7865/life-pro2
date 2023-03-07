@@ -13,7 +13,6 @@
     "@next/font": "13.1.6",
     "flowbite": "^1.6.3",
     "next": "^13.1.6",
-    "react": "^16.14.0",
     "react-custom-scroll": "^5.0.0",
     "react-dom": "^16.6.0",
     "react-otp-input": "^2.4.0",
